@@ -1,0 +1,15 @@
+C:\Users\200741\source\repos\EntryApi\Entry.Data\bin\Debug\net5.0\Entry.Data.deps.json
+C:\Users\200741\source\repos\EntryApi\Entry.Data\bin\Debug\net5.0\Entry.Data.dll
+C:\Users\200741\source\repos\EntryApi\Entry.Data\bin\Debug\net5.0\Entry.Data.pdb
+C:\Users\200741\source\repos\EntryApi\Entry.Data\bin\Debug\net5.0\Entry.Domain.dll
+C:\Users\200741\source\repos\EntryApi\Entry.Data\bin\Debug\net5.0\Entry.Domain.pdb
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\Entry.Data.csproj.AssemblyReference.cache
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\Entry.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\Entry.Data.AssemblyInfoInputs.cache
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\Entry.Data.AssemblyInfo.cs
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\Entry.Data.csproj.CoreCompileInputs.cache
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\Entry.Data.csproj.CopyComplete
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\Entry.Data.dll
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\refint\Entry.Data.dll
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\Entry.Data.pdb
+C:\Users\200741\source\repos\EntryApi\Entry.Data\obj\Debug\net5.0\ref\Entry.Data.dll
