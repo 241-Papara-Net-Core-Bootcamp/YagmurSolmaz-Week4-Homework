@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Api\\Entry.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Api\\Entry.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Api\\Entry.Api.csproj",
+        "projectName": "Entry.Api",
+        "projectPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Api\\Entry.Api.csproj",
+        "packagesPath": "C:\\Users\\200741\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\200741\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\CustomNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Data\\Entry.Data.csproj": {
+                "projectPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Data\\Entry.Data.csproj"
+              },
+              "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Domain\\Entry.Domain.csproj": {
+                "projectPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Domain\\Entry.Domain.csproj"
+              },
+              "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Service\\Entry.Service.csproj": {
+                "projectPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Service\\Entry.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Data\\Entry.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Data\\Entry.Data.csproj",
+        "projectName": "Entry.Data",
+        "projectPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Data\\Entry.Data.csproj",
+        "packagesPath": "C:\\Users\\200741\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\200741\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\CustomNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Domain\\Entry.Domain.csproj": {
+                "projectPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Domain\\Entry.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Domain\\Entry.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Domain\\Entry.Domain.csproj",
+        "projectName": "Entry.Domain",
+        "projectPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Domain\\Entry.Domain.csproj",
+        "packagesPath": "C:\\Users\\200741\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\200741\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\CustomNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Service\\Entry.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Service\\Entry.Service.csproj",
+        "projectName": "Entry.Service",
+        "projectPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Service\\Entry.Service.csproj",
+        "packagesPath": "C:\\Users\\200741\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\200741\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Projects\\CustomNuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Data\\Entry.Data.csproj": {
+                "projectPath": "C:\\Users\\200741\\source\\repos\\EntryApi\\Entry.Data\\Entry.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
