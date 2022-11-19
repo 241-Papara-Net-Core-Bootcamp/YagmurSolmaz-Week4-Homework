@@ -1,0 +1,17 @@
+C:\Users\200741\source\repos\EntryApi\Entry.Service\bin\Debug\net5.0\Entry.Service.deps.json
+C:\Users\200741\source\repos\EntryApi\Entry.Service\bin\Debug\net5.0\Entry.Service.dll
+C:\Users\200741\source\repos\EntryApi\Entry.Service\bin\Debug\net5.0\Entry.Service.pdb
+C:\Users\200741\source\repos\EntryApi\Entry.Service\bin\Debug\net5.0\Entry.Data.dll
+C:\Users\200741\source\repos\EntryApi\Entry.Service\bin\Debug\net5.0\Entry.Domain.dll
+C:\Users\200741\source\repos\EntryApi\Entry.Service\bin\Debug\net5.0\Entry.Data.pdb
+C:\Users\200741\source\repos\EntryApi\Entry.Service\bin\Debug\net5.0\Entry.Domain.pdb
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\Entry.Service.csproj.AssemblyReference.cache
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\Entry.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\Entry.Service.AssemblyInfoInputs.cache
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\Entry.Service.AssemblyInfo.cs
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\Entry.Service.csproj.CoreCompileInputs.cache
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\Entry.Service.csproj.CopyComplete
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\Entry.Service.dll
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\refint\Entry.Service.dll
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\Entry.Service.pdb
+C:\Users\200741\source\repos\EntryApi\Entry.Service\obj\Debug\net5.0\ref\Entry.Service.dll
